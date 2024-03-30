@@ -2,7 +2,8 @@
  Instructions:
    1) Assuming node and npx are installed, install expo then run program with 'npx expo start'
    2) Enter web development testing stage (or any other platform)
-   3) Run the program and add your tasks!
+   3) Download the program by accessing the "master" repository
+   4) Run the program and add your tasks
 
  Features:
   - Add a task by typing it out in the textfield and clicking the "Add Button"
