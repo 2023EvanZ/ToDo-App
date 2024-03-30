@@ -9,3 +9,6 @@
   - Delete a task by clicking on the trash-can icon next to that specific task
   - Edit a task by clicking the pencil icon next to that specific task and retyping the new version of the task in the textfield and clicking the "save" button
   - Click the checkbox to mark tasks as completed or remove the completed status
+
+ Libraries:
+   - Utilized React-native-paper for the cool icon button components
